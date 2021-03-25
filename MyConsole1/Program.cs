@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace MyConsole1
 {
@@ -7,6 +7,7 @@ namespace MyConsole1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Word by ALGOSUP");
         }
     }
 }
